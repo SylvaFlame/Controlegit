@@ -1,10 +1,15 @@
-4d81d09 HEAD@{0}: commit: Last commit modification Readme.md, conflict sortie de nul part
-7ab3157 HEAD@{1}: commit: Commit4 conflit résolution du conflit
-cfcd89d HEAD@{2}: commit (merge): Commit3 conflit résolution du conflit
-b2db9a0 HEAD@{3}: commit (merge): Commit2 conflit ajout du conflit
-b65d1f9 HEAD@{4}: commit: Commit conflit ajout du conflit
-ae564be HEAD@{5}: commit: Commit 5 Modification ligne 3 Readme.md
-c66c1e9 HEAD@{6}: commit: Commite 4 modification du fichier fic2.txt
-1e6e254 HEAD@{7}: commit: Commite 3 ajout du fichier fic2.txt
-59cbdde HEAD@{8}: commit: Commite2 de Readme.md
-8dde6ac HEAD@{9}: commit (initial): Commit du Readme.md
+088f751 HEAD@{0}: commit (merge): résolution conflict Readme.md
+1f5c371 HEAD@{1}: commit: ajout des fichiers de log
+4d81d09 HEAD@{2}: reset: moving to 4d81d09c5bba92d45a95f6ccad55392dd884e952
+c41ff74 HEAD@{3}: reset: moving to c41ff74da9a88ac165358d0905b0ff05056b9c64
+c41ff74 HEAD@{4}: commit: ajout des fichiers de log
+4d81d09 HEAD@{5}: commit: Last commit modification Readme.md, conflict sortie de nul part
+7ab3157 HEAD@{6}: commit: Commit4 conflit résolution du conflit
+cfcd89d HEAD@{7}: commit (merge): Commit3 conflit résolution du conflit
+b2db9a0 HEAD@{8}: commit (merge): Commit2 conflit ajout du conflit
+b65d1f9 HEAD@{9}: commit: Commit conflit ajout du conflit
+ae564be HEAD@{10}: commit: Commit 5 Modification ligne 3 Readme.md
+c66c1e9 HEAD@{11}: commit: Commite 4 modification du fichier fic2.txt
+1e6e254 HEAD@{12}: commit: Commite 3 ajout du fichier fic2.txt
+59cbdde HEAD@{13}: commit: Commite2 de Readme.md
+8dde6ac HEAD@{14}: commit (initial): Commit du Readme.md

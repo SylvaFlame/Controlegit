@@ -1,8 +1,27 @@
+commit 088f75149f973d4ef590ef97d4e9a7ee7ead451a
+Merge: 1f5c371 07ba8ff
+Author: sylvaflame <nicolas.bouvier4@epsi.fr>
+Date:   Thu Apr 2 15:04:45 2020 +0200
+
+    résolution conflict Readme.md
+
+commit 1f5c3719183953ed54945710866cf16cd456614c
+Author: sylvaflame <nicolas.bouvier4@epsi.fr>
+Date:   Thu Apr 2 15:03:47 2020 +0200
+
+    ajout des fichiers de log
+
 commit 4d81d09c5bba92d45a95f6ccad55392dd884e952
 Author: sylvaflame <nicolas.bouvier4@epsi.fr>
 Date:   Thu Apr 2 14:58:42 2020 +0200
 
     Last commit modification Readme.md, conflict sortie de nul part
+
+commit 07ba8ff0a082c00fc3a76c3f1d51028354b82239
+Author: SylvaFlame <44441912+SylvaFlame@users.noreply.github.com>
+Date:   Thu Apr 2 14:57:40 2020 +0200
+
+    Update Readme.md
 
 commit 7ab3157882e43b50eb5054dd670be6983d3a09b6
 Author: sylvaflame <nicolas.bouvier4@epsi.fr>
