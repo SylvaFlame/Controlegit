@@ -1,0 +1,79 @@
+commit 4d81d09c5bba92d45a95f6ccad55392dd884e952
+Author: sylvaflame <nicolas.bouvier4@epsi.fr>
+Date:   Thu Apr 2 14:58:42 2020 +0200
+
+    Last commit modification Readme.md, conflict sortie de nul part
+
+commit 7ab3157882e43b50eb5054dd670be6983d3a09b6
+Author: sylvaflame <nicolas.bouvier4@epsi.fr>
+Date:   Thu Apr 2 14:41:56 2020 +0200
+
+    Commit4 conflit résolution du conflit
+
+commit cfcd89dc2fd9542adbf58bee9e62d87bbe2f1b64
+Merge: b2db9a0 65dda4d
+Author: sylvaflame <nicolas.bouvier4@epsi.fr>
+Date:   Thu Apr 2 14:40:54 2020 +0200
+
+    Commit3 conflit résolution du conflit
+
+commit b2db9a01bbed00230b9990726e97ad875ec163f6
+Merge: b65d1f9 2969677
+Author: sylvaflame <nicolas.bouvier4@epsi.fr>
+Date:   Thu Apr 2 14:39:56 2020 +0200
+
+    Commit2 conflit ajout du conflit
+
+commit 65dda4defdc65966b5a941e9faddc2ea3a31afa4
+Author: SylvaFlame <44441912+SylvaFlame@users.noreply.github.com>
+Date:   Thu Apr 2 14:39:40 2020 +0200
+
+    Update fic2.txt
+
+commit b28b709b68a59ed8e0852aa8c0c351e0a96e8d9d
+Author: SylvaFlame <44441912+SylvaFlame@users.noreply.github.com>
+Date:   Thu Apr 2 14:39:17 2020 +0200
+
+    Update Readme.md
+
+commit b65d1f9f64d37a146fcf89fa212c11e38e606588
+Author: sylvaflame <nicolas.bouvier4@epsi.fr>
+Date:   Thu Apr 2 14:38:13 2020 +0200
+
+    Commit conflit ajout du conflit
+
+commit 29696775a7aec6c7505f441345c47f483a2bae79
+Author: SylvaFlame <44441912+SylvaFlame@users.noreply.github.com>
+Date:   Thu Apr 2 14:37:51 2020 +0200
+
+    Update Readme.md
+
+commit ae564be3e076f6df37d0790b77d14b62224f81c4
+Author: sylvaflame <nicolas.bouvier4@epsi.fr>
+Date:   Thu Apr 2 14:32:48 2020 +0200
+
+    Commit 5 Modification ligne 3 Readme.md
+
+commit c66c1e9daac13545273c76ce61b375635ca4b47a
+Author: sylvaflame <nicolas.bouvier4@epsi.fr>
+Date:   Thu Apr 2 14:31:58 2020 +0200
+
+    Commite 4 modification du fichier fic2.txt
+
+commit 1e6e25469ee6dbfc751e106773b62972a1d57158
+Author: sylvaflame <nicolas.bouvier4@epsi.fr>
+Date:   Thu Apr 2 14:31:09 2020 +0200
+
+    Commite 3 ajout du fichier fic2.txt
+
+commit 59cbddec3af7ea69c7b4102a1ce6dd50bb96bc39
+Author: sylvaflame <nicolas.bouvier4@epsi.fr>
+Date:   Thu Apr 2 14:29:53 2020 +0200
+
+    Commite2 de Readme.md
+
+commit 8dde6aca56e90b19215d11136ff111826936985d
+Author: sylvaflame <nicolas.bouvier4@epsi.fr>
+Date:   Thu Apr 2 14:28:13 2020 +0200
+
+    Commit du Readme.md

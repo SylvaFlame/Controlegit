@@ -1,0 +1,10 @@
+4d81d09 HEAD@{0}: commit: Last commit modification Readme.md, conflict sortie de nul part
+7ab3157 HEAD@{1}: commit: Commit4 conflit résolution du conflit
+cfcd89d HEAD@{2}: commit (merge): Commit3 conflit résolution du conflit
+b2db9a0 HEAD@{3}: commit (merge): Commit2 conflit ajout du conflit
+b65d1f9 HEAD@{4}: commit: Commit conflit ajout du conflit
+ae564be HEAD@{5}: commit: Commit 5 Modification ligne 3 Readme.md
+c66c1e9 HEAD@{6}: commit: Commite 4 modification du fichier fic2.txt
+1e6e254 HEAD@{7}: commit: Commite 3 ajout du fichier fic2.txt
+59cbdde HEAD@{8}: commit: Commite2 de Readme.md
+8dde6ac HEAD@{9}: commit (initial): Commit du Readme.md
