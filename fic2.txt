@@ -1,7 +1,7 @@
 Voici le fichier fic2.txt, je ne sais pas à quoi il sert.
 
-<<<<<<< HEAD
+
 conflit : modification locale
-=======
+
 conflit : modification github
->>>>>>> 65dda4defdc65966b5a941e9faddc2ea3a31afa4
+
