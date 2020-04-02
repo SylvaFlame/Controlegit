@@ -1,1 +1,3 @@
 Voici le fichier fic2.txt, je ne sais pas à quoi il sert.
+
+conflit : modification github
